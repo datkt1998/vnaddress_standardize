@@ -1,0 +1,10 @@
+/vnaddress.egg-info/
+/dist/
+build/
+.idea/
+.settings/
+.project
+.classpath
+*.pyc
+/dokenv/
+/__pycache__/
